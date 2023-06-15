@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1686824684 source:c:\users\anvitha gunturu\onedrive\desktop\banking system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
